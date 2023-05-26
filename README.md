@@ -28,3 +28,6 @@
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Nappy97)  
 
 ![Profile views](https://gpvc.arturio.dev/Nappy97)  
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
