@@ -1,9 +1,11 @@
 name: Waka Readme
+
 on:
   schedule:
-    - cron: "30 18 * * *"
-  # Manual triggers with workflow_dispatch
- workflow_dispatch:
+    # Runs at 12am IST
+    - cron: '30 18 * * *'
+    # cron: '00 15 * * *'로 하면 한국 시간 기준으로 오전 12:00에 업데이트 된다
+  workflow_dispatch:
 jobs:
   update-readme:
     name: Update Readme with Metrics
