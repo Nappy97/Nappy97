@@ -32,7 +32,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%203%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-120-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-121-blue)
 
 **🐱 My GitHub Data** 
 
@@ -113,5 +113,5 @@ C#                       2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Nappy97/Nappy97/main/assets/bar_graph.png)
 
 
- Last Updated on 02/06/2023 18:32:14 UTC
+ Last Updated on 03/06/2023 18:32:40 UTC
 <!--END_SECTION:waka-->
