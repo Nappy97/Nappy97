@@ -112,5 +112,5 @@ JavaScript               3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Nappy97/Nappy97/main/assets/bar_graph.png)
 
 
- Last Updated on 09/06/2023 18:32:11 UTC
+ Last Updated on 10/06/2023 18:32:18 UTC
 <!--END_SECTION:waka-->
