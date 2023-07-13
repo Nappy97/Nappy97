@@ -35,18 +35,6 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
-**🐱 My GitHub Data** 
-
-> 📦 338.8 kB Used in GitHub's Storage 
- > 
-> 🏆 104 Contributions in the Year 2023
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 55 Public Repositories 
- > 
-> 🔑 6 Private Repositories 
- > 
 **I'm an Early 🐤** 
 
 ```text
