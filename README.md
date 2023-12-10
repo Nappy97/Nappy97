@@ -95,5 +95,5 @@ Windows                  36 hrs 32 mins      ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Nappy97/Nappy97/main/assets/bar_graph.png)
 
 
- Last Updated on 09/12/2023 18:32:37 UTC
+ Last Updated on 10/12/2023 18:32:36 UTC
 <!--END_SECTION:waka-->
